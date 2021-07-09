@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<NetbackUpdate>
+  <update appID="Netback">
+    <version>v21.07.09.31083</version>
+    <url>https://bitbucket.org/sibuzu/superjackupdate/raw/master/Netback/Netback_v21.07.09.31083.zip</url>
+    <fileName>Netback.exe</fileName>
+    <description>v21.07.09.31083:
+* init
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\Netback\Netback\bin\Debug\">
+      <file>Netback.exe</file>
+    </files>
+    <md5>83b10f8046e4c0ae01f981400d72ee66</md5>
+  </update>
+</NetbackUpdate>
