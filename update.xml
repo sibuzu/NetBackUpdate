@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.07.09.31633</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.07.09.31633.zip</url>
+    <version>v21.07.09.31987</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.07.09.31987.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.07.09.31633:
+    <description>v21.07.09.31987:
 * init
 </description>
     <launchArgs>
@@ -12,6 +12,6 @@
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>d2a343b6788a3ab5756b845960d19370</md5>
+    <md5>df2a29ec45533789f7d473f2faf13bcb</md5>
   </update>
 </NetbackUpdate>
