@@ -11,7 +11,7 @@ namespace NetbackUpdater
     public partial class frmMain : Form
     {
         const string updateXml = "update.xml";
-        const string serverUri = "https://bitbucket.org/sibuzu/superjackupdate/raw/master/";
+        const string serverUri = "https://github.com/sibuzu/NetBackUpdate/raw/main/";
         public frmMain()
         {
             InitializeComponent();
