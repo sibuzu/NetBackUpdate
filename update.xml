@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.07.17.22953</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.07.17.22953.zip</url>
+    <version>v21.07.17.28309</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.07.17.28309.zip</url>
     <fileName>NetBack.exe</fileName>
     <description>v21.07.10.02859:
-* NetBack 更新時間沖日盤留倉
+* NetBack 新增滬深月沖策略
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>e3c062ac03f708112ebdd530d37aaa29</md5>
+    <md5>63d7836d18c90a4200745cfe846cc7fe</md5>
   </update>
 </NetbackUpdate>
