@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.08.05.00011</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.05.00011.zip</url>
+    <version>v21.08.05.35933</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.05.35933.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.08.05.00011:
-* NetBack 新增九點半後空
-* NetBack Server 改用機房主機：192.168.100.199:5000</description>
+    <description>v21.08.05.35933:
+* NetBack 新增委量沖
+</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>1cbe16644a7725fbc5ba91eb47b61894</md5>
+    <md5>0a974340f4ea1e889fd1d529926ef2c9</md5>
   </update>
 </NetbackUpdate>
