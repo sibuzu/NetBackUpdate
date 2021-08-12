@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.08.05.35933</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.05.35933.zip</url>
+    <version>v21.08.12.37570</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.12.37570.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.08.05.35933:
-* NetBack 新增委量沖
+    <description>v21.08.12.37570:
+* NetBack 新增均線下空
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>0a974340f4ea1e889fd1d529926ef2c9</md5>
+    <md5>ab0e3c664cf412d8b4b43c3b37d095e2</md5>
   </update>
 </NetbackUpdate>
