@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.08.12.37570</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.12.37570.zip</url>
+    <version>v21.08.19.30898</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.08.19.30898.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.08.12.37570:
-* NetBack 新增均線下空
+    <description>v21.08.19.30898:
+* NetBack 新增VX存續期間
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>ab0e3c664cf412d8b4b43c3b37d095e2</md5>
+    <md5>5467601a860c05ba3d195c3aa8851502</md5>
   </update>
 </NetbackUpdate>
