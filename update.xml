@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.09.08.39527</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.09.08.39527.zip</url>
+    <version>v21.09.15.23554</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.09.15.23554.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.09.08.39527:
-* NetBack 新增新低作多
+    <description>v21.09.15.23554:
+* NetBack 更新新低作多
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>23866203fc55c0e3e7d5dd270ce3c0f3</md5>
+    <md5>697efbd2609c933f6e4d0ecf4fbee7a6</md5>
   </update>
 </NetbackUpdate>
