@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.09.21.21085</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.09.21.21085.zip</url>
+    <version>v21.10.03.30152</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.03.30152.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.09.21.21085:
-* NetBack 更新新低作多
-</description>
+    <description>v21.10.03.30152:
+* NetBack 新增HDM策略</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>e4660aa5ec4a4dd7395e8c839654de44</md5>
+    <md5>4fdb94356e43cd707646f1348873032d</md5>
   </update>
 </NetbackUpdate>
