@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.10.09.26543</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.09.26543.zip</url>
+    <version>v21.10.09.26865</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.09.26865.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.10.09.26543:
+    <description>v21.10.09.26865:
 * NetBack 新增BTC策略
 </description>
     <launchArgs>
@@ -12,6 +12,6 @@
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>4569312d6b95245b6d86c905509b6e72</md5>
+    <md5>dd5d458ee5072774b59c8d23b47b3542</md5>
   </update>
 </NetbackUpdate>
