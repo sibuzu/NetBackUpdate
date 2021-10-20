@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.10.09.26865</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.09.26865.zip</url>
+    <version>v21.10.20.36364</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.20.36364.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v21.10.09.26865:
-* NetBack 新增BTC策略
+    <description>v21.10.20.36364:
+* NetBack 更新HDS策略
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>dd5d458ee5072774b59c8d23b47b3542</md5>
+    <md5>2c55c35c78ca8f0642d05e91b3f27049</md5>
   </update>
 </NetbackUpdate>
