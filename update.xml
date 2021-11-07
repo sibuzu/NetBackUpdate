@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.10.28.16469</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.10.28.16469.zip</url>
+    <version>v21.11.07.20671</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.11.07.20671.zip</url>
     <fileName>NetBack.exe</fileName>
     <description>v21.10.28.16469:
-* NetBack Update 新低作多
+* NetBack Update 新高買進增加 BNB
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>208092b36019ffd98b8655ff19610851</md5>
+    <md5>112eedde33abe81282183e5c5b2f1ba6</md5>
   </update>
 </NetbackUpdate>
