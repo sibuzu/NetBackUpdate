@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.11.27.35548</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.11.27.35548.zip</url>
+    <version>v21.11.27.36093</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.11.27.36093.zip</url>
     <fileName>NetBack.exe</fileName>
     <description>v21.11.27.35548:
-* NetBack Update 增加CryptoReport以及簡單動能
+* NetBack Update 更新簡單動能
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>e60a2ec9231042cd6ffe44a76faa9054</md5>
+    <md5>a250b4f66a91539e21f38e57aad97ea8</md5>
   </update>
 </NetbackUpdate>
