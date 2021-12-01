@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v21.11.27.36093</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.11.27.36093.zip</url>
+    <version>v21.12.01.16093</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v21.12.01.16093.zip</url>
     <fileName>NetBack.exe</fileName>
     <description>v21.11.27.35548:
-* NetBack Update 更新簡單動能
+* NetBack Update 更新三均線系統
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>a250b4f66a91539e21f38e57aad97ea8</md5>
+    <md5>48c42091381b0556c970bf0c0ca56fc6</md5>
   </update>
 </NetbackUpdate>
