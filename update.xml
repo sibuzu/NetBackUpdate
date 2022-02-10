@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v22.02.07.25972</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.02.07.25972.zip</url>
+    <version>v22.02.10.32992</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.02.10.32992.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v22.02.07.25972:
+    <description>v22.02.10.32992:
 * NetBack 更新 HDS
 </description>
     <launchArgs>
@@ -12,6 +12,6 @@
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>582b6d085ba25cd9d6e55ebb568cf0de</md5>
+    <md5>67a7b76c847b8fc903463adf8deb66d8</md5>
   </update>
 </NetbackUpdate>
