@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v22.02.20.24852</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.02.20.24852.zip</url>
+    <version>v22.02.20.25751</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.02.20.25751.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v22.02.20.24852:
-* NetBack 新增 BDS
+    <description>v22.02.20.25751:
+* NetBack 更新 BDS
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>b3d89d00d9536eedd1b9b7b71cde1966</md5>
+    <md5>baf8842182940872b871d4e73f8fdf66</md5>
   </update>
 </NetbackUpdate>
