@@ -14,4 +14,18 @@
     </files>
     <md5>baf8842182940872b871d4e73f8fdf66</md5>
   </update>
+  <update appID="TradeMatch">
+    <version>v22.03.30.40881</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/TradeMatch/TradeMatch_v22.03.30.40881.zip</url>
+    <fileName>TradeMatch.exe</fileName>
+    <description>v22.03.30.40881:
+* TradeMatch Initial Update
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\..\Work\Code\arx-report\TradeMatch\TradeMatch\bin\Debug\">
+      <file>TradeMatch.exe</file>
+    </files>
+    <md5>c3b9618a95701ba635bf0cbd35d17c53</md5>
+  </update>
 </NetbackUpdate>
