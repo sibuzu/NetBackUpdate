@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <NetbackUpdate>
   <update appID="NetBack">
-    <version>v22.05.02.40971</version>
-    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.05.02.40971.zip</url>
+    <version>v22.05.03.21680</version>
+    <url>https://github.com/sibuzu/NetBackUpdate/raw/main/NetBack/NetBack_v22.05.03.21680.zip</url>
     <fileName>NetBack.exe</fileName>
-    <description>v22.05.02.40189:
-* NetBack 新增 CryptoBDS 可測停損後加碼
+    <description>v22.05.03.21680:
+* NetBack 更新 CryptoBDS
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\NetBack\NetBack\bin\Debug\">
       <file>NetBack.exe</file>
     </files>
-    <md5>a578f9d16fc7191323fae1e76181b96f</md5>
+    <md5>e89c140603a8f1e7c78d7a4921cf88f8</md5>
   </update>
   <update appID="TradeMatch">
     <version>v22.03.30.42998</version>
